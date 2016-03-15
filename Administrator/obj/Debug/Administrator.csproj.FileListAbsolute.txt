@@ -1,0 +1,16 @@
+c:\users\asia\documents\visual studio 2015\Projects\Administrator\Administrator\bin\Debug\Administrator.exe.config
+c:\users\asia\documents\visual studio 2015\Projects\Administrator\Administrator\obj\Debug\Administrator.csprojResolveAssemblyReference.cache
+c:\users\asia\documents\visual studio 2015\Projects\Administrator\Administrator\obj\Debug\Administrator.Edytor_pracownika.resources
+c:\users\asia\documents\visual studio 2015\Projects\Administrator\Administrator\obj\Debug\Administrator.Form1.resources
+c:\users\asia\documents\visual studio 2015\Projects\Administrator\Administrator\obj\Debug\Administrator.Pracownicy.resources
+c:\users\asia\documents\visual studio 2015\Projects\Administrator\Administrator\obj\Debug\Administrator.Properties.Resources.resources
+c:\users\asia\documents\visual studio 2015\Projects\Administrator\Administrator\obj\Debug\Administrator.csproj.GenerateResource.Cache
+c:\users\asia\documents\visual studio 2015\Projects\Administrator\Administrator\bin\Debug\Administrator.exe
+c:\users\asia\documents\visual studio 2015\Projects\Administrator\Administrator\bin\Debug\Administrator.pdb
+c:\users\asia\documents\visual studio 2015\Projects\Administrator\Administrator\obj\Debug\Administrator.exe
+c:\users\asia\documents\visual studio 2015\Projects\Administrator\Administrator\obj\Debug\Administrator.pdb
+C:\Users\Asia\Documents\Visual Studio 2015\Projects\Administrator\Administrator\obj\Debug\Administrator.LoginForm.resources
+C:\Users\Asia\Documents\Visual Studio 2015\Projects\Administrator\Administrator\obj\Debug\Administrator.Seanse.resources
+C:\Users\Asia\Documents\Visual Studio 2015\Projects\Administrator\Administrator\obj\Debug\Administrator.SprzedazBiletu.resources
+C:\Users\Asia\Documents\Visual Studio 2015\Projects\Administrator\Administrator\obj\Debug\Administrator.SprzedaneBilety.resources
+C:\Users\Asia\Documents\Visual Studio 2015\Projects\Administrator\Administrator\obj\Debug\Administrator.DodajSeans.resources
